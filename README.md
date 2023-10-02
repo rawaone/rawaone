@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rawa Rashid</h1>
 <h3 align="center">A passionate game developer & software developer</h3>
+<iframe src="https://giphy.com/embed/Vh1KrUr6Tvl1RFYYk6" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gfuel-gaming-pc-setup-Vh1KrUr6Tvl1RFYYk6">via GIPHY</a></p>
 
 - 🔭 I’m currently working on **a barbershop website with an online booking system - for a London-based barbershop**
 
