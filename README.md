@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rawa Rashid</h1>
 <h3 align="center">A passionate game developer & software developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdnZm5nZ2R1YXgwM2V1NjFhNWtsd2I2eWVzOGtsOXBweDdjOWF5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vh1KrUr6Tvl1RFYYk6/giphy.gif)">
 
 
 - 🔭 I’m currently working on **a barbershop website with an online booking system - for a London-based barbershop**
