@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rawa Rashid</h1>
 <h3 align="center">A passionate game developer & software developer</h3>
 
-![image](https://github.com/rawaone/rawaone/assets/67627984/312983ab-8815-422e-be72-1453ca6ee8a7)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207">
 
 
 - 🔭 I’m currently working on **a barbershop website with an online booking system - for a London-based barbershop**
