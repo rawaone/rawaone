@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rawa Rashid</h1>
 <h3 align="center">A Junior Machine learning / Computer vision Engineer</h3>
 
-- 🔭 I’m currently working on **a barbershop website with an online booking system - for a London-based barbershop**
+- 🔭 I’m currently a master student in **Artificial Intelligence & Data Science**
 
 - 🌱 I’m currently learning **Machine learning / Computer vision / Deep learning**
 
